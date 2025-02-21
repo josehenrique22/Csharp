@@ -1,0 +1,14 @@
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\bin\Debug\net8.0\learncsharp.exe
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\bin\Debug\net8.0\learncsharp.deps.json
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\bin\Debug\net8.0\learncsharp.runtimeconfig.json
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\bin\Debug\net8.0\learncsharp.dll
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\bin\Debug\net8.0\learncsharp.pdb
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.AssemblyInfoInputs.cache
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.AssemblyInfo.cs
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.csproj.CoreCompileInputs.cache
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.dll
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\refint\learncsharp.dll
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.pdb
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.genruntimeconfig.cache
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\ref\learncsharp.dll
