@@ -12,3 +12,4 @@ C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\r
 C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.pdb
 C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.genruntimeconfig.cache
 C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\ref\learncsharp.dll
+C:\Users\joser\OneDrive\Documentos\C#\LearnCSharp\learncsharp\obj\Debug\net8.0\learncsharp.sourcelink.json
