@@ -52,5 +52,24 @@ namespace LowLevel {
             NativeMemory.Free((void*)ptr);
 
         }
+        
+        // Alloc in the stack
+        public unsafe void StackAllocMemory() 
+        {
+            int* ptr = stackalloc int[10];
+
+            // Value
+            for (int i = 0; i < 10; i++)
+            {
+                ptr[i] = i * 10;
+            }
+
+            for (int i = 0; i < 10; i++) 
+            {
+                Console.WriteLine(ptr[i]);
+            }
+
+            // When the method finish the memory is automatic free
+        }
     }
 }

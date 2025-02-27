@@ -44,10 +44,23 @@ namespace Learn {
             //     Console.WriteLine(*ptrResult);
             // }
 
-            LearnLowLevel exLowLevel = new();
+            //LearnLowLevel exLowLevel = new();
 
-            exLowLevel.AllocMemoryMethodEx();
-            exLowLevel.ModernAllocMemoryEx();
+            // exLowLevel.AllocMemoryMethodEx();
+            // exLowLevel.ModernAllocMemoryEx();
+
+            //Ex.SquareRootEx();
+
+            // exLowLevel.StackAllocMemory();
+
+            MyClass myClassPartial = new();
+
+            myClassPartial.Method1();
+            myClassPartial.Method2();
+
+            myClassPartial.Nome = "José";
+            string namePartialClass = myClassPartial.Nome;
+            Console.WriteLine(namePartialClass);
 
         }
         
@@ -84,6 +97,33 @@ namespace Learn {
             else Console.WriteLine($"Number: {number} is positive");
         }
 
+        public static void SquareRootEx() {
+
+            float inputFloat;
+            Boolean positive = true;
+            // Fazer dentro do While, e não fora
+            while (positive) 
+            {   
+                
+                Console.WriteLine("Type a Number: ");
+                inputFloat = float.Parse(Console.ReadLine());
+                
+                float decimalSquareRoot = (float)Math.Sqrt(inputFloat);
+                
+                if (inputFloat > 0) 
+                {
+                    Console.WriteLine($"Decimal SquareRoot is positive: {decimalSquareRoot} , Type Again"); 
+                    continue;
+                } 
+
+                else 
+                {
+                    Console.WriteLine($"Decimal SquareRoot is negative: Can't show a Sqrt negative"); 
+                    break;
+                }
+    
+            }
+        }
 
     }
 }
